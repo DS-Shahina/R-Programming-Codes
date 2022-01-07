@@ -1,0 +1,2 @@
+#NULL < raw < logical < integer< real < complex < character < list < expression: pairlists are
+#treated as lists.
